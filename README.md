@@ -7,7 +7,7 @@ To run the demos, first install python and OpenCV as follows:
 	Python 2.7
 	OpenCV 2.4
 
-To run demos, type the following into a terminal:
+To run the demos, type the following into a terminal:
 
 demo1:
 
@@ -16,3 +16,5 @@ demo1:
 demo2:
 
 	python addCartoonMouth.py
+
+For reference, the slides used in the presentation are included in 
